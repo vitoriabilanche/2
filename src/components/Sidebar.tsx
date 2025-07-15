@@ -106,3 +106,5 @@ export function Sidebar({ isCollapsed, onToggle }: SidebarProps) {
     </div>
   );
 }
+
+export default Sidebar
